@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1" ,
+        "title" : "The couch lamp" ,
+        "price" : "From $1,200.00" ,
+        "lightOff" : "src/assets/images/lamp-couch-light-off_1.webp",
+        "lightOn" : "src/assets/images/lamp-couch-light-on_1.webp",
+        "darkOff" : "src/assets/images/lamp-couch-dark-off_1.webp",
+        "darkOn" : "src/assets/images/lamp-couch-dark-on_1.webp"
+    },
+    {
+        "id" : "2" , 
+        "title" : "The Dining lamp" ,
+        "price" : "From $3,800.00" ,
+        "lightOff" : "src/assets/images/lamp-dining-light-off_1.webp",
+        "lightOn" : "src/assets/images/lamp-dining-light-on_1.webp",
+        "darkOff" : "src/assets/images/lamp-dining-dark-off_1.webp",
+        "darkOn" : "src/assets/images/lamp-dining-dark-on_1.webp"
+    },
+    {
+        "id" : "3" , 
+        "title" : "The Desk Lamp" ,
+        "price" : "From $800.00" ,
+        "lightOff" : "src/assets/images/lamp-desk-light-off_1.webp",
+        "lightOn" : "src/assets/images/lamp-desk-light-on_1.webp",
+        "darkOff" : "src/assets/images/lamp-desk-dark-off_1.webp",
+        "darkOn" : "src/assets/images/lamp-desk-dark-on_1.webp"
+    },
+    {
+        "id" : "4" , 
+        "title" : "The Lounge Lamp" ,
+        "price" : "From $2,235.00" ,
+        "lightOff" : "src/assets/images/lamp-lounge-light-off_1.webp",
+        "lightOn" : "src/assets/images/lamp-lounge-light-on_1.webp",
+        "darkOff" : "src/assets/images/lamp-lounge-dark-off_1.webp",
+        "darkOn" : "src/assets/images/lamp-lounge-dark-on_1.webp"
+    }
+]
